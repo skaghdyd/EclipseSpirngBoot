@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;templates.layout&apos; to &apos;_20230213/src/main/resources/templates&apos;&#x0D;&#x0A;- Original project: &apos;_20230209&apos;&#x0D;&#x0A;- Destination element: &apos;_20230213/src/main/resources/templates&apos;&#x0D;&#x0A;- Original element: &apos;_20230209/src/main/resources/templates.layout&apos;" description="Copy package" destination="=_20230213/src\/main\/resources=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;templates" element1="/src\/main\/resources=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;templates.layout" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1676252020707" version="1.0"/>
+</session>

@@ -1,0 +1,110 @@
+
+2월 06, 2023 10:29:28.102 NEW SESSION
+2월 06, 2023 10:29:28.102 [2044:6708:0206/102928.101:ERROR:device_event_log_impl.cc(215)] [10:29:28.101] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 10:29:28.103 [2044:6708:0206/102928.101:ERROR:device_event_log_impl.cc(215)] [10:29:28.102] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+2월 06, 2023 10:30:26.83 [2044:11872:0206/103026.083:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 06, 2023 11:17:58.985 [10160:2548:0206/111758.985:ERROR:device_event_log_impl.cc(215)] [11:17:58.985] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 11:17:58.988 [10160:2548:0206/111758.987:ERROR:device_event_log_impl.cc(215)] [11:17:58.987] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+2월 06, 2023 11:18:56.895 [10160:2780:0206/111856.895:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 06, 2023 11:38:48.332 [17088:9832:0206/113848.332:ERROR:device_event_log_impl.cc(215)] [11:38:48.332] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 11:38:48.333 [17088:9832:0206/113848.333:ERROR:device_event_log_impl.cc(215)] [11:38:48.333] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+2월 06, 2023 11:39:46.228 [17088:7008:0206/113946.227:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+2월 06, 2023 14:11:27.513 NEW SESSION
+2월 06, 2023 14:11:27.513 [3844:9028:0206/141127.512:ERROR:device_event_log_impl.cc(215)] [14:11:27.512] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 14:11:27.514 [3844:9028:0206/141127.514:ERROR:device_event_log_impl.cc(215)] [14:11:27.513] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+2월 06, 2023 14:12:25.411 [3844:6332:0206/141225.410:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 06, 2023 14:47:29.186 [11456:4224:0206/144729.186:ERROR:device_event_log_impl.cc(215)] [14:47:29.186] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 14:47:29.188 [11456:4224:0206/144729.188:ERROR:device_event_log_impl.cc(215)] [14:47:29.189] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+2월 06, 2023 14:48:27.78 [11456:15316:0206/144827.077:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 06, 2023 15:12:34.527 [9832:15772:0206/151234.527:ERROR:device_event_log_impl.cc(215)] [15:12:34.527] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 15:12:34.528 [9832:15772:0206/151234.528:ERROR:device_event_log_impl.cc(215)] [15:12:34.529] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+2월 06, 2023 15:13:32.418 [9832:9124:0206/151332.416:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 06, 2023 15:22:21.28 [8084:6664:0206/152221.028:ERROR:device_event_log_impl.cc(215)] [15:22:21.028] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 15:22:21.32 [8084:6664:0206/152221.032:ERROR:device_event_log_impl.cc(215)] [15:22:21.032] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+2월 06, 2023 15:22:41.712 [16776:1248:0206/152241.711:ERROR:device_event_log_impl.cc(215)] [15:22:41.711] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 15:22:41.714 [16776:1248:0206/152241.714:ERROR:device_event_log_impl.cc(215)] [15:22:41.714] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+2월 06, 2023 15:22:57.866 [8152:13504:0206/152257.866:ERROR:device_event_log_impl.cc(215)] [15:22:57.867] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 15:22:57.868 [8152:13504:0206/152257.868:ERROR:device_event_log_impl.cc(215)] [15:22:57.869] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+2월 06, 2023 15:23:55.759 [8152:11624:0206/152355.758:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 06, 2023 19:21:08.83 [8152:9900:0206/192108.083:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+2월 07, 2023 09:12:43.527 [8152:9900:0207/091243.527:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+2월 07, 2023 09:12:47.547 [8152:16356:0207/091247.547:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 07, 2023 09:12:47.578 [8152:9900:0207/091247.578:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+2월 07, 2023 09:12:47.609 [8152:10472:0207/091247.609:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+2월 07, 2023 09:13:15.110 [8152:9900:0207/091315.110:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+
+2월 08, 2023 15:14:37.595 NEW SESSION
+2월 08, 2023 15:14:37.595 [15436:3332:0208/151437.594:ERROR:device_event_log_impl.cc(215)] [15:14:37.594] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 08, 2023 15:14:37.607 [15436:3332:0208/151437.607:ERROR:device_event_log_impl.cc(215)] [15:14:37.607] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+2월 08, 2023 15:15:35.493 [15436:12704:0208/151535.492:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 08, 2023 16:01:14.748 [15436:3332:0208/160114.748:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+2월 08, 2023 16:35:52.224 [15436:3332:0208/163552.223:ERROR:interface_endpoint_client.cc(695)] Message 130783209 rejected by interface blink.mojom.FrameWidgetHost
+2월 08, 2023 19:10:22.164 [15436:14104:0208/191022.164:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+2월 08, 2023 19:29:33.611 [15436:3332:0208/192933.609:ERROR:interface_endpoint_client.cc(695)] Message 3 rejected by interface blink.mojom.Widget
+2월 09, 2023 11:34:21.82 [8172:9336:0209/113421.082:ERROR:device_event_log_impl.cc(215)] [11:34:21.081] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 09, 2023 11:34:21.85 [8172:9336:0209/113421.085:ERROR:device_event_log_impl.cc(215)] [11:34:21.084] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+2월 09, 2023 11:35:18.975 [8172:13352:0209/113518.975:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 09, 2023 12:09:13.245 [8172:9336:0209/120913.245:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.673 s for activation_start 0.183725 s
+2월 09, 2023 12:09:13.405 [8172:9336:0209/120913.405:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.673 s for activation_start 0.183725 s
+2월 09, 2023 12:09:14.340 [8172:9336:0209/120914.340:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.673 s for activation_start 0.183725 s
+2월 09, 2023 12:09:16.485 [8172:9336:0209/120916.485:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.673 s for activation_start 0.183725 s
+2월 09, 2023 12:09:22.330 [8172:9336:0209/120922.330:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.673 s for activation_start 0.183725 s
+2월 09, 2023 12:12:08.854 [8172:9336:0209/121208.854:ERROR:CONSOLE(1)] "Request Storage.getStorageKeyForFrame failed. {"code":-32602,"message":"Frame tree node for given frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+2월 09, 2023 12:12:08.854 [8172:9336:0209/121208.854:ERROR:CONSOLE(1)] "Request Network.loadNetworkResource failed. {"code":-32602,"message":"Frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+2월 09, 2023 12:34:05.222 [8172:9336:0209/123405.221:ERROR:CONSOLE(1)] "Request Storage.getStorageKeyForFrame failed. {"code":-32602,"message":"Frame tree node for given frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+2월 09, 2023 12:34:05.228 [8172:9336:0209/123405.228:ERROR:CONSOLE(1)] "Request Network.loadNetworkResource failed. {"code":-32602,"message":"Frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+2월 09, 2023 12:34:05.876 [8172:9336:0209/123405.876:ERROR:CONSOLE(1)] "Request Storage.getStorageKeyForFrame failed. {"code":-32602,"message":"Frame tree node for given frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+2월 09, 2023 12:34:05.884 [8172:9336:0209/123405.883:ERROR:CONSOLE(1)] "Request Network.loadNetworkResource failed. {"code":-32602,"message":"Frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+2월 09, 2023 12:34:10.613 [8172:9336:0209/123410.613:ERROR:CONSOLE(1)] "Request Storage.getStorageKeyForFrame failed. {"code":-32602,"message":"Frame tree node for given frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+2월 09, 2023 12:34:10.635 [8172:9336:0209/123410.634:ERROR:CONSOLE(1)] "Request Network.loadNetworkResource failed. {"code":-32602,"message":"Frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+2월 09, 2023 12:34:11.263 [8172:9336:0209/123411.262:ERROR:CONSOLE(1)] "Request Storage.getStorageKeyForFrame failed. {"code":-32602,"message":"Frame tree node for given frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+2월 09, 2023 12:34:11.284 [8172:9336:0209/123411.284:ERROR:CONSOLE(1)] "Request Network.loadNetworkResource failed. {"code":-32602,"message":"Frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+2월 09, 2023 12:34:39.763 [8172:9336:0209/123439.763:ERROR:CONSOLE(1)] "Request Storage.getStorageKeyForFrame failed. {"code":-32602,"message":"Frame tree node for given frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+2월 09, 2023 12:34:39.769 [8172:9336:0209/123439.769:ERROR:CONSOLE(1)] "Request Network.loadNetworkResource failed. {"code":-32602,"message":"Frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+2월 09, 2023 15:05:01.747 [8172:10340:0209/150501.745:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+2월 09, 2023 15:52:53.179 [8172:9336:0209/155253.179:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+2월 09, 2023 16:35:18.997 [8172:14172:0209/163518.996:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 10, 2023 09:18:19.455 [19432:20448:0210/091819.455:ERROR:device_event_log_impl.cc(215)] [09:18:19.454] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 10, 2023 09:18:19.458 [19432:20448:0210/091819.458:ERROR:device_event_log_impl.cc(215)] [09:18:19.457] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+2월 10, 2023 09:19:17.355 [19432:1868:0210/091917.354:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 10, 2023 14:06:45.878 [19432:20448:0210/140645.877:ERROR:device_event_log_impl.cc(215)] [14:06:45.876] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+2월 13, 2023 09:24:47.125 NEW SESSION
+2월 13, 2023 09:24:47.125 [14324:13000:0213/092447.124:ERROR:device_event_log_impl.cc(215)] [09:24:47.123] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 13, 2023 09:24:47.130 [14324:13000:0213/092447.130:ERROR:device_event_log_impl.cc(215)] [09:24:47.129] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+2월 13, 2023 09:25:45.11 [14324:8188:0213/092545.011:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 13, 2023 09:26:35.482 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+2월 13, 2023 10:01:58.436 [14324:9788:0213/100158.436:ERROR:cert_verify_proc_builtin.cc(676)] CertVerifyProcBuiltin for api.lunamedia.io failed:
+2월 13, 2023 10:01:58.437 ----- Certificate i=0 (CN=*.lunamedia.io) -----
+2월 13, 2023 10:01:58.437 ERROR: Time is after notAfter
+2월 13, 2023 10:01:58.437 
+2월 13, 2023 10:01:58.437 
+
+2월 20, 2023 14:50:06.253 NEW SESSION
+2월 20, 2023 14:50:06.253 [19408:18052:0220/145006.243:ERROR:device_event_log_impl.cc(215)] [14:50:06.242] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 20, 2023 14:50:06.253 [19408:18052:0220/145006.246:ERROR:device_event_log_impl.cc(215)] [14:50:06.246] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+2월 20, 2023 14:51:04.128 [19408:18024:0220/145104.128:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 21, 2023 14:10:22.131 [10800:4184:0221/141022.131:ERROR:device_event_log_impl.cc(215)] [14:10:22.132] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 21, 2023 14:10:22.136 [10800:4184:0221/141022.136:ERROR:device_event_log_impl.cc(215)] [14:10:22.136] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+2월 21, 2023 14:11:20.104 [10800:17988:0221/141120.104:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 21, 2023 19:11:20.107 [10800:17968:0221/191120.107:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 22, 2023 24:11:18.858 [10800:4444:0222/001118.858:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 22, 2023 05:11:18.870 [10800:2716:0222/051118.870:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 22, 2023 06:14:35.898 [10800:18512:0222/061435.898:ERROR:mcs_client.cc(748)] Received close command, resetting connection.
+2월 22, 2023 09:18:13.845 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2월 22, 2023 10:11:18.874 [10800:19280:0222/101118.874:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 22, 2023 15:11:18.885 [10800:20204:0222/151118.884:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 22, 2023 20:11:18.898 [10800:10876:0222/201118.897:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 23, 2023 01:11:17.606 [10800:1416:0223/011117.605:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 23, 2023 06:11:17.619 [10800:1416:0223/061117.619:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 23, 2023 07:24:09.96 [10800:18512:0223/072409.095:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+2월 23, 2023 10:57:19.890 [10800:18512:0223/105719.889:ERROR:mcs_client.cc(748)] Received close command, resetting connection.
+2월 23, 2023 11:11:17.631 [10800:14140:0223/111117.630:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 23, 2023 11:47:22.321 [10800:18512:0223/114722.321:ERROR:mcs_client.cc(748)] Received close command, resetting connection.
+2월 23, 2023 15:46:24.357 [10800:4184:0223/154624.357:ERROR:device_event_log_impl.cc(215)] [15:46:24.362] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+2월 23, 2023 16:11:17.643 [10800:14488:0223/161117.643:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 23, 2023 21:11:17.657 [10800:6760:0223/211117.657:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 24, 2023 02:11:16.515 [10800:6760:0224/021116.515:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 24, 2023 07:11:16.533 [10800:9800:0224/071116.533:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+2월 24, 2023 12:11:16.542 [10800:15424:0224/121116.542:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
